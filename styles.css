@@ -1,0 +1,35 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 12px;
+  font-weight: 400;
+  background-color: #efecea;
+}
+
+.comment {
+  color: #a29a8f !important;
+}
+
+.pragma {
+  color: #e2724c;
+}
+
+.reserved {
+  color: #d86b31;
+  font-weight: 700;
+}
+
+.op {
+  color: #91c046;
+}
+
+.data_type {
+  color: #d99f41;
+}
+
+.number {
+  color: #8d962a;
+}
+
+.text {
+  color:#253031;
+}
